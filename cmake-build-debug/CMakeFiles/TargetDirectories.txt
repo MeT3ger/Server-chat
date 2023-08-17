@@ -1,0 +1,3 @@
+/home/micke/server_chat/cmake-build-debug/CMakeFiles/server_calc.dir
+/home/micke/server_chat/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/micke/server_chat/cmake-build-debug/CMakeFiles/rebuild_cache.dir
